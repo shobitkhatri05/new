@@ -1,0 +1,8 @@
+.card
+{
+    background-image: linear-gradient(to right top, #aeb4b9, #80868c, #555b62, #2d343b, #050f18);
+}
+.card-body
+{
+    color:black;
+}
